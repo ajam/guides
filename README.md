@@ -1,4 +1,6 @@
-# ProPublica's Nerd Guides
+# Al Jazeera America's Nerd Guides
+
+###### Forked from the illustrious [ProPublica guides](https://github.com/propublica/guides).
 
 ## Table of Contents
 
@@ -14,7 +16,7 @@ These guides are copyright 2013 Pro Publica, Inc. and are licensed under a [Crea
 
 ## Discuss
 
-You can submit issues using [Github Issues](https://github.com/propublica/guides/issues).
+You can submit issues using [Github Issues](https://github.com/ajam/guides/issues).
 
 ## Contributing
 
